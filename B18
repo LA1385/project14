@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+        <head>
+        
+            <title>mark</title>
+        
+            <meta charset="utf-8">
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+            <style>
+                body{background-color: black; font-family: sans-serif; color: white;}
+                h2{text-decoration: underline overline; text-transform: capitalize; color: red;}
+                h2::first-letter{font-size: 40px;}
+                p{text-transform: capitalize;}
+                mark{color: blue;}
+            </style>
+        
+        </head>
+        <body>
+            <img src="VAlogo-55x70.webp" alt="image not found"> 
+            Vanguards Academy<br>
+            Motto: Education For Life<br>
+            <h2>About vanguards academy</h2>
+            <p>To excel in the provision of comprehensive and qualitative education for <mark>academic excellence</mark>, <mark>intellectual supremacy</mark>,<mark>
+strength and morality</mark>, based on <mark>the fear of Allah</mark> in a conducive environment, and under competent and God fearing
+            personnel.
+</p>
+<pre>
+<h2 class="display-2">History of vanguards academy</h2>
+<p><abbr title="Vanguards Academy">VA</abbr> was established on Saturday, 28th September,2002 (Rajab 21, 1423 A.H.) The school was conceived to be
+a model private secondary school with full complements. It commenced operation in Isiwo, a sprawling town in Ogun State,
+Nigeria. Isiwo is a town to behold with its undulating topography and aesthetic landscape. It is located in the eastern
+part of Ogun State and is a home to some of the prominent citizens of the State. The population of the town is barely
+over 10,000 people with each family closely linked to one another.</p>
+</pre>
+
+<blockquote class="blockquote">
+    <p>"if you fail to plan you plan to fail"</p>
+    <footer class="From vanguards acdemy">From vanguards academy</footer>
+</blockquote>
+<footer>
+    <center>
+    Copyright © 2024 Vanguards Academy | Designed by Icitify Solutions
+    </center>
+</footer><br><br>
+        </body>
+</html>
